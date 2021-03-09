@@ -295,4 +295,4 @@ problema_entregas_aciclico = Busqueda_grafo(
     })
 
 #print(problema_entregas_aciclico)
-print(AEstrella(problema_entregas_aciclico).buscar_profundidad())
+#print(AEstrella(problema_entregas_aciclico).buscar_profundidad())
